@@ -15,4 +15,4 @@ Once these are installed, enable pre-commit linting:
 
 Then run `hugo server` to start the dev server!
 
-The site will be available locally at http://localhost:1313.
+The site will be available locally at http://localkeyup:1313.
